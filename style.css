@@ -39,9 +39,15 @@ body {
   height: 50px;
   width: calc(100% / 2 - 20px);
   outline: none;
-  padding: 0 20px;
+  padding: 0 30px;
   border-radius: 8px;
   font-size: 18px;
+}
+.input-field button{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+
 }
 .input-field input {
   text-align: center;
